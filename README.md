@@ -51,7 +51,7 @@ The application improves communication between students and mess administrators 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
